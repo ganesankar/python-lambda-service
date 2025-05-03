@@ -8,7 +8,7 @@ provider:
 
 functions:
   hello:
-    handler: src/handler.hello
+    handler: src/handler.update_delta_table_schema
     events:
       - http:
           path: hello
