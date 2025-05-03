@@ -1,0 +1,3 @@
+serverless-offline
+pytest
+boto3
