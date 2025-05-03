@@ -2,3 +2,4 @@ serverless-offline
 pytest
 boto3
 databricks-sql-connector==2.1.0
+pandas==2.0.1
